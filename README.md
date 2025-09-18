@@ -71,11 +71,10 @@ I believe in **writing clean, maintainable code** and **building systems that sc
 
 ## 🐍 GitHub Contributions Snake  
 
-## 🐍 GitHub Contributions Snake  
-
 <p align="center">  
   <img src="https://raw.githubusercontent.com/Otuja/Otuja/output/github-contribution-grid-snake.svg" alt="snake animation"/>  
 </p>
+
 
 
 ---
