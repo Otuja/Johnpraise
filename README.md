@@ -16,7 +16,11 @@ What sets me apart is my ability to **move across the stack with ease** — from
 - 🌍 Passionate about **eCommerce systems, wallet-based apps, SaaS platforms, and fintech integrations**  
 - 🌱 Currently honing my **TypeScript & Next.js** skills for production-ready web apps  
 
-I believe in **writing clean, maintainable code** and **building systems that scale**.  
+I believe in **writing clean, maintainable code** and **building systems that scale**. 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Otuja&label=Profile%20views&color=0e75b6&style=flat" alt="Otuja" /> 
+</p>
+
 
 ---
 
