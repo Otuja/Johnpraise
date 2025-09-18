@@ -73,7 +73,7 @@ I believe in **writing clean, maintainable code** and **building systems that sc
 ## 🐍 GitHub Contributions Snake  
 
 <p align="center">  
- https://raw.githubusercontent.com/Otuja/Otuja/output/dist/github-contribution-grid-snake.svg
+ https://raw.githubusercontent.com/Otuja/Otuja/main/dist/github-contribution-grid-snake.svg
 </p>
 
 
