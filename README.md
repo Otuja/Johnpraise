@@ -74,4 +74,4 @@ I believe in **writing clean, maintainable code** and **building systems that sc
 ## 🐍 GitHub Contributions Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/johnpraise/johnpraise/output/github-contribution-grid-snake.svg"
+  <img src="https://raw.githubusercontent.com/otuja/output/github-contribution-grid-snake.svg"
