@@ -99,8 +99,3 @@ I believe in **writing clean, maintainable code** and **building systems that sc
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true" alt="Wakatime stats"/>
-</p>
-
-
