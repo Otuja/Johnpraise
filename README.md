@@ -1,36 +1,29 @@
-# 👋 Hi, I'm Johnpraise  
-
-💻 **Software Developer** | 🌐 **Full-Stack Engineer** | 🚀 **Tech Explorer**  
+# <p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Johnpraise+👋;Software+Developer;Full-Stack+Engineer;Django+%7C+React+%7C+TypeScript;Always+Exploring+%26+Building" alt="Typing SVG" />  
+</p>  
 
 ---
 
 ## 🚀 About Me  
-I’m a **Computer Science student & software developer** passionate about building **scalable applications** that solve real-world problems.  
-I don’t just stop at one stack — I explore across **web, mobile, and AI**, constantly evolving with technology.  
+I’m a **Computer Science student & software developer** passionate about building **scalable applications**.  
+I specialize in **full-stack development** and love creating solutions in **web technologies** — while staying open to new frontiers like **mobile and AI** in the future.  
 
-- 🔧 Skilled in **Backend (Django, DRF, NestJS)** & **Frontend (React, TailwindCSS)**  
-- 📱 Exploring **mobile development** with React Native & Flutter  
-- 🤖 Interested in **AI/ML** and how it blends with modern software solutions  
-- ⚡ Love building **wallet systems, SaaS platforms, and automation tools**  
-- 🌱 Currently advancing into **TypeScript full-stack mastery**  
+- 🛠 Skilled in **Django, DRF, React, JavaScript, TypeScript**  
+- 🖌️ Styling with **TailwindCSS** for clean UI  
+- ⚡ Experienced with **PostgreSQL, SQLite, and Docker**  
+- 🌱 Currently mastering **TypeScript full-stack development**  
+- 💡 Building projects around **wallet systems, SaaS platforms, and automation tools**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Core Skills**  
+**Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-**Mobile & AI Interests**  
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Databases & Tools**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
