@@ -97,16 +97,10 @@ I believe in **writing clean, maintainable code** and **building systems that sc
   <img src="https://github-profile-trophy.vercel.app/?username=Johnpraise&theme=radical&no-frame=true&margin-w=10" alt="trophies"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Johnpraise&theme=radical&hide_border=true" alt="streak"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true" alt="Wakatime stats"/>
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
