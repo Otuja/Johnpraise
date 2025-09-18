@@ -34,7 +34,6 @@ I believe in **writing clean, maintainable code** and **building systems that sc
 ### ⚙️ Backend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django" />
-  <img src="https://user-images.githubusercontent.com/102229251/232364662-3fdf3147-8f02-4c83-8c89-51f6f3e3d4b6.png" width="45" alt="DRF"/>
 </p>
 
 ### 🗄️ Databases  
