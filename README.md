@@ -47,7 +47,6 @@ I believe in **writing clean, maintainable code** and **building systems that sc
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Otuja&theme=tokyonight&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Otuja&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>  
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Otuja&theme=tokyonight&hide_border=true" height="180em"/>
 
 
 ---
